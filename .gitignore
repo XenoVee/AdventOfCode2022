@@ -1,0 +1,6 @@
+*
+!*/
+
+# track these files:
+!.gitignore
+!*.py
